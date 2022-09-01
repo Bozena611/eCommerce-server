@@ -1,0 +1,34 @@
+[
+  {
+    "name"    : "CE 100",
+    "imgURL"      : "https://res.cloudinary.com/dafkjtajd/image/upload/v1574034773/ecommerce/CE100-blue_bwflch.jpg",
+    "description": "The world’s leading circular economy network which provides a pre-competitive space to learn, share knowledge, and build new collaborative approaches.",
+    "price"      : 1000,
+    "stock"      : 300,
+    "SKU"        : "2019-01"
+  },
+  {
+    "name"    : "Food Initiative",
+    "imgURL"      : "https://res.cloudinary.com/dafkjtajd/image/upload/v1574034785/ecommerce/Food_Infographic_web_lmm5s4.jpg",
+    "description": "Let's stimulate a global shift towards a regenerative food system based on the principles of a circular economy.",
+    "price"      : 700,
+    "stock"      : 200,
+    "SKU"        : "2019-02"
+  },
+  {
+    "name"    : "Make Fashion Circular",
+    "imgURL"      : "https://res.cloudinary.com/dafkjtajd/image/upload/v1574034794/ecommerce/Make_Fashion_circular_hphodh.jpg",
+    "price"      : 800,
+    "description": "The ambition is to ensure clothes are made from safe and renewable materials, new business models increase their use, and old clothes are turned into new.",
+    "stock"      : 300,
+    "SKU"        : "2019-03"
+  },
+  {
+    "name"    : "New Plastics Economy",
+    "imgURL"      : "https://res.cloudinary.com/dafkjtajd/image/upload/v1574034804/ecommerce/New_Plastics_Economy_bxyyyn.png",
+    "description":"The New Plastics Economy is an initiative to build momentum towards a plastics system that works. Applying the principles of the circular economy, it brings together key stakeholders to rethink and redesign the future of plastics, starting with packaging.",
+    "price"      : 900,
+    "stock"      : 300,
+    "SKU"        : "2019-04"
+  }
+   ]
